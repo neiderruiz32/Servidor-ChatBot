@@ -24,3 +24,7 @@ El aplicativo cliente permite enviar preguntas al servidor y recibir las respues
 4. El cliente puede escribir una pregunta y presionar Enter para enviarla al servidor.
 5. El cliente recibirá la respuesta del servidor y podrá realizar más preguntas.
 6. Para finalizar la conversación, el cliente puede escribir "adios" y presionar Enter.
+
+## Nota
+
+Se debe compilar primero el aplicativo servidor antes del aplicativo cliente. Recordar que se debe compilar y ejecutar los aplicativos cliente y servidor por separado en diferentes terminales o máquinas para que puedan comunicarse entre sí. Asegurarse de utilizar la misma dirección IP y puerto en ambos aplicativos.
